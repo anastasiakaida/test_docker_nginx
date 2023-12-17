@@ -2,7 +2,7 @@
 
 ## Basic authentication
 Password file was generated with `htpasswd` utility from `apache2-utils`.
-Not sure is it safe way to provide a file in repo, but I decided to provide the solution in the most simple way.
+Not sure if it is a safe way to provide a file in repo, but this is the simplest way.
 
 ## Running docker
 Building image
